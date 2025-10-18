@@ -85,6 +85,18 @@ A sleek desktop application to calculate and track Body Mass Index (BMI) using P
 | ≥ 30 | Obese |
 
 ---
+
+## 📂 File Structure
+
+| File/Folder | Description |
+|:-----------:|:-----------:|
+| src/main.py | Main python Script|
+| database/schema.sql | SQL Script to create the users table |
+| requirements.txt | Python dependencies |
+| .gitignore | Git ignore rules | 
+
+
+---
 ## 💡 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
