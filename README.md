@@ -67,7 +67,7 @@ A sleek desktop application to calculate and track Body Mass Index (BMI) using P
    ```
 ---
 
-## Schema Preview
+## 🖼️ Schema Preview
 
 <img width="1056" height="546" alt="MySQL Schema" src="https://github.com/user-attachments/assets/ee3dc62e-a5e1-4e9e-b923-b63c1ae0f217" />
 
