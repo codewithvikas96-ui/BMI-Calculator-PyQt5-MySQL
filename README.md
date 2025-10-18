@@ -78,3 +78,13 @@ A sleek desktop application to calculate and track Body Mass Index (BMI) using P
 ---
 ## 💡 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+
+---
+
+## 📃 License
+This project is licensed under the MIT License.
+
+---
+
+## 💡 Author
+Made with 💛 by Vikas Ajay Vishwakarma
