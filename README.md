@@ -24,3 +24,47 @@ A sleek desktop application to calculate and track Body Mass Index (BMI) using P
 
 ---
 
+## 📦 setup Instructions
+1. Clone the repository
+   ```bash
+   git clone https://github.com/codewithvikas96-ui/BMI-Calculator-PyQt5-MySQL.git
+   ```
+2. Navigate inside the project folder
+   ```bash
+   cd BMI-Calculator-PyQt5-MySQL
+   ```
+3. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. set up the MySQL Database
+   - Open MySQL and create a database:
+     ```sql
+     CREATE DATABASE BodyMassIndex;
+     ```
+   - Use the database:
+     ```sql
+     USE BodyMassIndex;
+     ```
+     or just right click on the database (BodyMassIndex) and click on **Set as default Schema**
+   - Create the users table:
+     ```sql
+     CREATE TABLE users (
+          id INT AUTO_INCREMENT PRIMARY KEY,
+          name VARCHAR(100),
+          weight DECIMAL(5,2),
+          height DECIMAL(5,2),
+          bmi DECIMAL(5,2),
+          category VARCHAR(50),
+          date_time DATETIME DEFAULT CURRENT_TIMESTAMP
+      );
+     ```
+
+5. Run the application
+   ```bash
+   python src/main.py
+   ```
+---
+
+
