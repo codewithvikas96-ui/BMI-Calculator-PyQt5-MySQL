@@ -14,3 +14,13 @@ A sleek desktop application to calculate and track Body Mass Index (BMI) using P
 - 🎨 Stylish and responsive PyQt5 interface
 
 ---
+
+## 🛠️ Technologies Used
+
+- Python 3
+- PyQt5
+- MySQL
+- SQL
+
+---
+
