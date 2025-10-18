@@ -67,4 +67,10 @@ A sleek desktop application to calculate and track Body Mass Index (BMI) using P
    ```
 ---
 
-
+## 🧠 BMI Categories
+| BMI Range | Category |
+|:---------:|:--------:|
+| < 18.5 | Underweight |
+| 18.5 – 24.9	| Normal weight |
+| 25 – 29.9 | Overweight |
+| ≥ 30 | Obese |
