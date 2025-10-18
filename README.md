@@ -67,6 +67,15 @@ A sleek desktop application to calculate and track Body Mass Index (BMI) using P
    ```
 ---
 
+## Schema Preview
+
+<img width="1056" height="546" alt="MySQL Schema" src="https://github.com/user-attachments/assets/ee3dc62e-a5e1-4e9e-b923-b63c1ae0f217" />
+
+
+<img width="909" height="419" alt="Table Preview" src="https://github.com/user-attachments/assets/1ccb78cc-0dd5-4f24-8219-cb67b28420e6" />
+
+---
+
 ## 🧠 BMI Categories
 | BMI Range | Category |
 |:---------:|:--------:|
