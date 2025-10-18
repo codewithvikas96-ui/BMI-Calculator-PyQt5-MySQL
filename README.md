@@ -74,3 +74,7 @@ A sleek desktop application to calculate and track Body Mass Index (BMI) using P
 | 18.5 – 24.9	| Normal weight |
 | 25 – 29.9 | Overweight |
 | ≥ 30 | Obese |
+
+---
+## 💡 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
